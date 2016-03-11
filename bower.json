@@ -1,0 +1,23 @@
+{
+    "name": "webfont-lato",
+    "version": "1.0.0",
+    "homepage": "https://github.com/thomasJang/webfont-lato",
+    "authors": [
+        "tom@axisj.com thomasJ and team axisj"
+    ],
+    "description": "Lato webfont repository",
+    "main": "",
+    "keywords": [
+        "Lato",
+        "webfont"
+    ],
+    "license": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "*.iml",
+        "test",
+        "tests"
+    ]
+}
